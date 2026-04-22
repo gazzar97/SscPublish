@@ -4,7 +4,7 @@ using System.Web.Http.Controllers;
 using System.Web.Http.Filters;
 using Sitecore;
 
-namespace SscPublish.Filters
+namespace zzz.Foundation.SSCPublish.Filters
 {
     /// <summary>
     /// Custom filter to give authorization for specific users

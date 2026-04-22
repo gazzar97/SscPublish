@@ -1,12 +1,12 @@
-﻿using System;
-using System.Web.Http;
-using Sitecore.Data;
+﻿using Sitecore.Data;
 using Sitecore.Publishing;
 using Sitecore.Services.Core;
 using Sitecore.Services.Infrastructure.Web.Http;
-using SscPublish.Filters;
+using zzz.Foundation.SSCPublish.Filters;
+using System;
+using System.Web.Http;
 
-namespace SscPublish.Controllers
+namespace zzz.Foundation.SSCPublish.Controllers
 {
     [ServicesController("PublishServices/PublishController")]
     public class PublishController : ServicesApiController
